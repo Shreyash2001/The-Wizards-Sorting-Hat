@@ -50,5 +50,6 @@ them into a house.
 <td align="center"><a href="https://github.com/d-coder111"><kbd><img src="https://avatars.githubusercontent.com/u/82580017?v=4" width="100px;" alt=""/></kbd><br /><sub><b>d-coder111  </b></sub></a><br /> :computer:  </td>
   <td align="center"><a href="https://github.com/DewashishCodes"><kbd><img src="https://avatars.githubusercontent.com/u/176646422?v=4" width="100px;" alt=""/></kbd><br /><sub><b>DewashishCodes</b></sub></a><br /> :computer:  </td>
  <td align="center"><a href="https://github.com/D-Binara"><kbd><img src="https://avatars.githubusercontent.com/u/119029171?v=4" width="100px;" alt=""/></kbd><br /><sub><b>D-Binara</b></sub></a><br /> :computer:  </td>
+<td align="center"><a href="https://github.com/Shreyash2001"><kbd><img src="https://avatars.githubusercontent.com/u/44520586?v=4" width="100px;" alt=""/></kbd><br /><sub><b>Shreyash2001</b></sub></a><br /> :computer:  </td>
 </tr>
 </table>
